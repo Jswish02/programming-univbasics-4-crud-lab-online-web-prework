@@ -1,21 +1,22 @@
 def create_an_empty_array
-  
+  []
 end
 
 def create_an_array
-  
+  [1,2,3]
 end
 
 def add_element_to_end_of_array(array, element)
-  
+  [chicken, pasta,]
 end
 
 def add_element_to_start_of_array(array, element)
-  
+  [burger,chicken,pasta]
 end
 
 def remove_element_from_end_of_array(array)
-  
+  [burger,chicken,pasta]
+  "pasta".pop
 end
 
 def remove_element_from_start_of_array(array)
