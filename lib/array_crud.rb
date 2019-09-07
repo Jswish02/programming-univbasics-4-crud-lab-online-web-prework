@@ -20,21 +20,22 @@ def remove_element_from_end_of_array(array)
 end
 
 def remove_element_from_start_of_array(array)
-  
+  [burger,chicken,pasta]
+  'burger'.shift
 end
 
 def retrieve_element_from_index(array, index_number)
-  
+  [1]
 end
 
 def retrieve_first_element_from_array(array)
-  
+  burger
 end
 
 def retrieve_last_element_from_array(array)
-  
+  [2]
 end
 
 def update_element_from_index(array, index_number, element)
-
+[2]= hotdog
 end
